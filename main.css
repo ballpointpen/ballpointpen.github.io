@@ -13,4 +13,5 @@ h2 {
 ul {
   text-align: center;
   color: Red;
+  display: inline;
 }
