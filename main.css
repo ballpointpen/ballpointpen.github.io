@@ -10,7 +10,7 @@ h2 {
   color: Olive;
 }
 
-ul {
-  text-align: center;
-  color: Red;
+li {
+  color: Olive;
+  display: inline-block;
 }
