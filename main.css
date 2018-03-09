@@ -11,9 +11,9 @@ h2 {
 }
 
 li {
+  text-align: center;
   color: Olive;
   display: inline-block;
-  text-align: center;
 }
 
 p {
