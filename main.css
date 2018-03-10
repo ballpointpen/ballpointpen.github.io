@@ -1,4 +1,5 @@
-html, body {
+body {
+  position: absolute;
   font-family: sans-serif;
   margin: 0;
   width: 100;
@@ -12,10 +13,7 @@ h2 {
 
 li {
   text-align: center;
-<<<<<<< HEAD
   size: 32px;
-=======
->>>>>>> 98d798a015d736d39bbb837ed9e68d7361780513
   color: Olive;
   display: inline-block;
 }
@@ -24,4 +22,8 @@ p {
   text-align: center;
   color: black;
   size: 24;
+}
+
+.img {
+  position: relative;
 }
