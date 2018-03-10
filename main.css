@@ -1,8 +1,8 @@
 html, body {
   font-family: sans-serif;
   margin: 0;
-  width: 100%;
-  height: 100%;
+  width: 100;
+  height: 100;
 }
 
 h2 {
@@ -12,13 +12,16 @@ h2 {
 
 li {
   text-align: center;
+<<<<<<< HEAD
   size: 32px;
+=======
+>>>>>>> 98d798a015d736d39bbb837ed9e68d7361780513
   color: Olive;
   display: inline-block;
 }
 
 p {
-  color: black;
-  size: 24px;
   text-align: center;
+  color: black;
+  size: 24;
 }
