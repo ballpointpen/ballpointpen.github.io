@@ -8,17 +8,17 @@ body {
 
 h2 {
   position: absolute;
-  top: 50%;
+  top: 30%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: #00802b;
+  color: #579d15;
 }
 
 li {
   position: absolute;
   text-align: center;
   size: 32px;
-  color: #00802b;
+  color: #579d15;
   display: inline-block;
 }
 
