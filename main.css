@@ -29,3 +29,11 @@ p {
   color: black;
   size: 24;
 }
+
+.creds {
+  position: absolute;
+  top: 95%;
+  left: 95%;
+  color: black;
+  size: 12px;
+}
