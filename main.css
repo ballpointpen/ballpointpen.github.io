@@ -8,13 +8,13 @@ body {
 
 h2 {
   position: absolute;
-  top: 25%;
+  top: 15%;
   left: 50%;
   transform: translate(-50%, -50%);
   color: #579d15;
 }
 
-li {
+ul {
   position: absolute;
   text-align: center;
   size: 32px;
@@ -24,7 +24,8 @@ li {
 
 p {
   position: absolute;
-  text-align: center;
+  top: 50%;
+  left: 50%;
   color: black;
   size: 24;
 }
